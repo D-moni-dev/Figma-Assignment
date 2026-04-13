@@ -146,6 +146,11 @@ button:hover {
   cursor: pointer;
 }
 
+footer img{
+    width: 20%;
+    
+}
+
 /* Mobile Devices */
 @media (max-width: 768px) {
   .navbar {
